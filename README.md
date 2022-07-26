@@ -11,3 +11,5 @@ The purpose of this challenge was to  My client was informed that academic disho
 # Results
 
 By first using the loc method, I was able to gather all ninth grader's math and reading scores from Thomas High School, and apply NaN. 
+![loc_method](loc_method.png)
+
