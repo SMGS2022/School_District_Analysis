@@ -11,5 +11,35 @@ The purpose of this challenge was to  My client was informed that academic disho
 # Results
 
 By first using the loc method, I was able to gather all ninth grader's math and reading scores from Thomas High School, and apply NaN. 
+
 ![loc_method](loc_method.png)
 
+- How is the District Summary affected?
+
+BEFORE:
+![district_summary_before](district_summary_before.png)
+
+AFTER:
+![district_summary_after](district_summary_after.png)
+
+- How is the School Summary affected?
+
+BEFORE:                                               
+![school_summary_before](school_summary_before.png)  
+
+AFTER:
+![school_summary_after](school_summary_after.png)
+
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+BEFORE (MATH):
+![math_grades_before](math_grades_before.png)
+
+AFTER (MATH):
+!([math_grades_after](math_grades_after.png)
+
+BEFORE (READING):
+![reading_grades_before](reading_grades_after.png)
+
+AFTER (READING):
+![reading_grades_after](reading_grades_after.png)
