@@ -76,7 +76,7 @@ By first using the loc method, I was able to gather all ninth grader's math and 
 
 #### BEFORE
 
-![school_type_before](school_type_before.png)
+![type_before](type_before.png)
 
 #### AFTER 
 
