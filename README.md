@@ -36,7 +36,13 @@ By first using the loc method, I was able to gather all ninth grader's math and 
 
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+#### BEFORE
 
+![top_schools_before](/assets/top_schools_before.png)
+
+#### AFTER
+
+![top_schools_after](/assets/top_schools_after.png)
 
 - ### Math and reading scores by grade
 
